@@ -16,10 +16,7 @@ app.use(express.static(resolve(__dirname, './public')));
 // Routes
 app.get('/api', (req, res, next) => {
   Locations.find().exec()
-    .then((locations) => {
-      console.log('locations', locations);
-      return res.json({ success: true, locations });
-    })
+    .then(locations => res.json({ success: true, locations }))
     .catch(next);
 });
 
