@@ -12,6 +12,8 @@ const locationSchema = new Schema({
   megaSite: { type: Boolean, required: true },
   earlyVoting: { type: Boolean, required: true },
   electionDayVoting: { type: Boolean, required: true },
+  latitude: { type: Number, required: true },
+  longitude: { type: Number, required: true },
 });
 
 const Location = mongoose.model('Location', locationSchema);
