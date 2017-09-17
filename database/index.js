@@ -17,7 +17,7 @@ if (process.env.NODE_ENV === 'development') {
 // If we're in production...
 if (process.env.NODE_ENV === 'production') {
   // set our database to the development one
-  whichDb = process.env.MONGOLAB_URI;
+  whichDb = process.env.MONGODB_URI;
 }
 
 // Connect to it via mongoose
