@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
+import GoogleMap from 'google-map-react';
+import Marker from './Marker';
 
 class Home extends Component {
   constructor(props) {
@@ -21,8 +23,24 @@ class Home extends Component {
 
   render() {
     return (
-      <div>
-        <h1>Soon to be something useful</h1>
+      <div style={{ height: 500 }}>
+        <h1>Travis County Historical Polling Locations</h1>
+        <GoogleMap
+          // should change key eventually, currently taking from
+          // https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/
+          bootstrapURLKeys={{ key: 'AIzaSyAyesbQMyKVVbBgKVi2g6VX7mop2z96jBo' }}
+          center={{ lat: 30.2672, lng: -97.7431 }}
+          zoom={11}
+        >
+          { this.state.locations.length && this.state.locations.map(location => (
+            <Marker
+              key={location._id}
+              lat={location.latitude}
+              lng={location.longitude}
+              text={location.name}
+            />
+          ))}
+        </GoogleMap>
       </div>
     );
   }
