@@ -1,0 +1,551 @@
+Year,Name,Address,Neighborhood,Neighborhood (Spanish),Precinct(s),Mega Site,Early Voting,Election Day Voting
+2014,Carver Museum Complex,1165 Angelina St.,East,Este,124,FALSE,TRUE,TRUE
+2014,Ben Hur Shrine Center,7811 Rockwood Ln.,North ,Norte,243,FALSE,TRUE,TRUE
+2014,Randalls Steiner Ranch,5145 RM 620 North,Northwest,Noroeste,244,FALSE,TRUE,TRUE
+2014,Randalls Lakeway,2301 RR 620 South,West,Oeste,320,FALSE,TRUE,TRUE
+2014,Randalls Research and Braker,10900-D Research Blvd.,Northwest,Noroeste,323,FALSE,TRUE,TRUE
+2014,Randalls South Mopac and William Cannon,6600 South Mopac,Southwest,Suroeste,351,FALSE,TRUE,TRUE
+2014,Del Valle ISD Administration Building,5301 Ross Rd.,Southeast,Sureste,401,FALSE,TRUE,TRUE
+2014,HEB South Congress,2400 South Congress Ave. ,South ,Sur,424,FALSE,TRUE,TRUE
+2014,Parque Zaragoza Recreation Center,2608 Gonzales St.,East,Este,426,FALSE,TRUE,TRUE
+2014,Dan Ruiz Public Library,1600 Grove Blvd.,Southeast,Sureste,429,FALSE,TRUE,TRUE
+2014,Gus Garcia Recreation Center,1201 East Rundberg Ln.,Northeast,Noreste,"139, 140, 141",FALSE,TRUE,TRUE
+2014,"County Tax Office, Pflugerville Community Room ",15822 Foothill Farms Loop,North ,Norte,"148, 146",FALSE,TRUE,TRUE
+2014,Howson Public Library,2500 Exposition Blvd.,Central ,Central,"256, 266",FALSE,TRUE,TRUE
+2014,University of Texas Flawn Academic Center Lobby,2400 Inner Campus Dr. ,Central ,Central,"277, 208",FALSE,TRUE,TRUE
+2014,Bee Cave City Hall,4000 Galleria Pkwy.,West,Oeste,"324, 325, 368",FALSE,TRUE,TRUE
+2014,Randalls Ben White and Manchac,2025 West Ben White Blvd.,South ,Sur,"454, 412",FALSE,TRUE,TRUE
+2014,Fiesta Mart Central in Delwood Shopping Center ,3909 North IH-35,Central ,Central ,,FALSE,TRUE,TRUE
+2014,Delco Center,4601 Pecan Brook Dr. ,Northeast,Noreste,,FALSE,TRUE,TRUE
+2014,Fiesta Mart Stassney,5510 South IH-35,Southeast,Sureste,,FALSE,TRUE,TRUE
+2014,Randalls Brodie and Slaughter,9911 Brodie Ln.,Southwest,Suroeste,,FALSE,TRUE,TRUE
+2014,Copperfield Elementary School,12135 Thompkins Dr.,,,102,FALSE,FALSE,TRUE
+2014,Manor ISD Admin. Building,10335 US Highway 290E,,,105,FALSE,FALSE,TRUE
+2014,Elgin High School ,14000 County Line Rd.,,,106,FALSE,FALSE,TRUE
+2014,New Sweden Lutheran Church,12809 New Sweden Church Rd.,,,107,FALSE,FALSE,TRUE
+2014,Dessau Elementary School,1501 Dessau Ridge Ln.,,,112,FALSE,FALSE,TRUE
+2014,Wieland Elementary School,900 Tudor House Rd.,,,113,FALSE,FALSE,TRUE
+2014,YMCA East Community Branch,5315 Ed Bluestein Blvd.,,,122,FALSE,FALSE,TRUE
+2014,Murchison Elementary School,2215 Kelly Ln.,,,123,FALSE,FALSE,TRUE
+2014,Carver Branch Library,1161 Angelina St.,,,124,FALSE,FALSE,TRUE
+2014,David Chapel Portable,2211 East MLK Jr. Blvd.,,,126,FALSE,FALSE,TRUE
+2014,Pecan Springs Elementary School,3100 Rogge Ln.,,,132,FALSE,FALSE,TRUE
+2014,Blanton Elementary School,5408 Westminster Dr.,,,133,FALSE,FALSE,TRUE
+2014,Messiah Lutheran Church,5701 Cameron Rd.,,,135,FALSE,FALSE,TRUE
+2014,Pfluger Hall,203B East Pecan St.,,,136,FALSE,FALSE,TRUE
+2014,Highland Mall ,"6001 Airport Blvd., Ste. #1020",,,142,FALSE,FALSE,TRUE
+2014,Windermere Elementary School,1101 Picadilly Dr.,,,145,FALSE,FALSE,TRUE
+2014,Reilly Elementary School,405 Denson Dr.,,,149,FALSE,FALSE,TRUE
+2014,Brookhollow Elementary School,1200 North Railroad Ave.,,,150,FALSE,FALSE,TRUE
+2014,Dottie Jordan Recreation Center,2803 Loyola Ln.,,,151,FALSE,FALSE,TRUE
+2014,Maplewood Elementary School,3808 Maplewood Ave.,,,152,FALSE,FALSE,TRUE
+2014,Pioneer Crossing Elementary,11300 Samsung Blvd.,,,153,FALSE,FALSE,TRUE
+2014,Virginia Brown Recreation Center ,7500 Blessing Ave. ,,,156,FALSE,FALSE,TRUE
+2014,Spring Hill Elementary School,600 South Heatherwilde Blvd.,,,160,FALSE,FALSE,TRUE
+2014,Barrington Elementary School,400 Cooper Dr.,,,164,FALSE,FALSE,TRUE
+2014,Winters Building,701 West 51st St.,,,200,FALSE,FALSE,TRUE
+2014,Red River Church,4425 Red River St.,,,202,FALSE,FALSE,TRUE
+2014,River Oaks Elementary ,12401 Scofield Farms Dr.,,,205,FALSE,FALSE,TRUE
+2014,Lee Elementary School,3308 Hampton Rd.,,,206,FALSE,FALSE,TRUE
+2014,YMCA Northwest Branch,5807 McNeil Dr. ,,,207,FALSE,FALSE,TRUE
+2014,Bryker Woods Elementary School,3309 Kerbey Ln.,,,214,FALSE,FALSE,TRUE
+2014,Northwest Elementary School,14014 Thermal Dr.,,,216,FALSE,FALSE,TRUE
+2014,ACC Northridge Campus,11928 Stonehollow Dr.,,,218,FALSE,FALSE,TRUE
+2014,Caldwell Elementary School,1718 Picadilly Dr.,,,219,FALSE,FALSE,TRUE
+2014,Canyon Ridge Middle School,12601 Country Trails Ln.,,,232,FALSE,FALSE,TRUE
+2014,Shepherd of the Hills Christian ,6909 West Courtyard Dr. ,,,233,FALSE,FALSE,TRUE
+2014,Austin Christian Fellowship,6401 River Place Blvd.,,,234,FALSE,FALSE,TRUE
+2014,McCallum High School,5600 Sunshine Dr.,,,235,FALSE,FALSE,TRUE
+2014,Rosedale School,2117 West 49th St.,,,236,FALSE,FALSE,TRUE
+2014,Highland Park Baptist Church,5206 Balcones Dr.,,,237,FALSE,FALSE,TRUE
+2014,Murchison Middle School,3700 North Hills Dr.,,,238,FALSE,FALSE,TRUE
+2014,Gullett Elementary School,6310 Treadwell Blvd.,,,239,FALSE,FALSE,TRUE
+2014,Highland Park Elementary School,4900 Fairview Dr.,,,240,FALSE,FALSE,TRUE
+2014,Brentwood Elementary School,6700 Arroyo Seco,,,241,FALSE,FALSE,TRUE
+2014,Northwest Baptist Church,6301 Woodrow Ave.,,,242,FALSE,FALSE,TRUE
+2014,Grandview Hills Elementary School,12024 Vista Parke Dr.,,,245,FALSE,FALSE,TRUE
+2014,Hill Elementary School ,8601 Tallwood Dr. ,,,246,FALSE,FALSE,TRUE
+2014,Doss Elementary School,7005 Northledge Dr.,,,247,FALSE,FALSE,TRUE
+2014,Burnet Middle School,8401 Hathaway Dr.,,,248,FALSE,FALSE,TRUE
+2014,St. Luke United Methodist Ch. ,1306 West Lynn St.,,,250,FALSE,FALSE,TRUE
+2014,North Village Library,2505 Steck Ave.,,,252,FALSE,FALSE,TRUE
+2014,First Presbyterian Church,8001 Mesa Dr.,,,253,FALSE,FALSE,TRUE
+2014,McBee Elementary School,1001 West Braker Ln.,,,258,FALSE,FALSE,TRUE
+2014,Milwood Branch Library,12500 Amherst Dr.,,,259,FALSE,FALSE,TRUE
+2014,Austin Brethren Church,1800 Payton Gin Rd.,,,260,FALSE,FALSE,TRUE
+2014,United Christian Church,3500 West Parmer Lane,,,263,FALSE,FALSE,TRUE
+2014,Grant AME Worship Center,1701 Kramer Ln.,,,268,FALSE,FALSE,TRUE
+2014,Congregation Beth Israel,3901 Shoal Creek Blvd.,,,273,FALSE,FALSE,TRUE
+2014,Sunset Valley City Hall,3205 Jones Rd.,,,301,FALSE,FALSE,TRUE
+2014,Bailey Middle School,4020 Lost Oasis Hollow,,,302,FALSE,FALSE,TRUE
+2014,Oak Hill Primitive Baptist Church,11408 FM 1826,,,303,FALSE,FALSE,TRUE
+2014,Kiker Elementary School,5913 La Crosse Ave.,,,304,FALSE,FALSE,TRUE
+2014,Briarcliff P.O.A. Community Center,22801 Briarcliff Dr.,,,308,FALSE,FALSE,TRUE
+2014,Manchaca United Methodist,1011 FM 1626 (Manchaca),,,310,FALSE,FALSE,TRUE
+2014,Oak Hill Fire Dept. Station ,4111 Barton Creek Blvd. ,,,314,FALSE,FALSE,TRUE
+2014,Villages Amenities Center ,12006 Gatling Gun Ln. ,,,315,FALSE,FALSE,TRUE
+2014,Travis County Parks Office ,14624 Hamilton Pool Rd. ,,,316,FALSE,FALSE,TRUE
+2014,Lost Creek MUD Office  ,1305 Quaker Ridge Drive ,,,317,FALSE,FALSE,TRUE
+2014,Laurel Mountain Elem. School ,10111 DK Ranch Rd. ,,,326,FALSE,FALSE,TRUE
+2014,Austin Fire Station # 33 ,9409 Bluegrass Dr. ,,,327,FALSE,FALSE,TRUE
+2014,Renaissance Retirement Center ,11279 Taylor Draper Ln. ,,,328,FALSE,FALSE,TRUE
+2014,Kathy Caraway Elementary School ,11104 Oak View Dr. ,,,331,FALSE,FALSE,TRUE
+2014,Canyon Creek Elementary School ,10210 Ember Glen Dr. ,,,333,FALSE,FALSE,TRUE
+2014,Celebration Church - Anderson Mill (NEW),10401 Anderson Mill Rd. ,,,334,FALSE,FALSE,TRUE
+2014,Canyon Vista Middle School ,8455 Spicewood Springs Rd. ,,,335,FALSE,FALSE,TRUE
+2014,Hallmark Baptist Church ,9023 Old Lampasas Tr. ,,,336,FALSE,FALSE,TRUE
+2014,Lakewood H.O.A.,7317 Lakewood Dr. ,,,337,FALSE,FALSE,TRUE
+2014,Travis County WCID %23 18,1502 San Juan Dr. ,,,338,FALSE,FALSE,TRUE
+2014,Western Hills Church of Christ ,6211 Parkwood Dr. ,,,339,FALSE,FALSE,TRUE
+2014,Barton Hills Elementary School ,2108 Barton Hills Dr. ,,,342,FALSE,FALSE,TRUE
+2014,Church at Canyon Creek ,9001 FM 620 North ,,,343,FALSE,FALSE,TRUE
+2014,Cunningham Elementary School ,2200 Berkeley Ave. ,,,344,FALSE,FALSE,TRUE
+2014,Serene Hills Elementary School ,3301 Serene Hills Dr. ,,,346,FALSE,FALSE,TRUE
+2014,Hill Country Middle School ,1300 Walsh Tarlton Ln. ,,,347,FALSE,FALSE,TRUE
+2014,Small Middle School  ,4801 Monterey Oaks Blvd. ,,,351,FALSE,FALSE,TRUE
+2014,Travis Country H.O.A. Office ,4504 Travis Country Cir. ,,,354,FALSE,FALSE,TRUE
+2014,Bowie High School ,4103 West Slaughter Ln. ,,,360,FALSE,FALSE,TRUE
+2014,Oak Hill Fire Dept. Station # 301,9211 Circle Dr. ,,,361,FALSE,FALSE,TRUE
+2014,Will Hampton Branch Public Library,5125 Convict Hill Rd. ,,,362,FALSE,FALSE,TRUE
+2014,Shepherd of the Hills Presbyterian  ,5226 West William Cannon Dr. ,,,363,FALSE,FALSE,TRUE
+2014,Randalls Flagship in West Lake Hills ,3300 Bee Cave Rd. ,West,Oeste,364,FALSE,FALSE,TRUE
+2014,West Rural Community Center ,8656 Highway 71 West  ,,,365,FALSE,FALSE,TRUE
+2014,Mills Elementary School ,6201 Davis Ln. ,,,366,FALSE,FALSE,TRUE
+2014,Clayton Elementary School,7525 La Crosse Ave. ,,,367,FALSE,FALSE,TRUE
+2014,Christ Episcopal Church ,3520 West Whitestone Blvd. ,,,369,FALSE,FALSE,TRUE
+2014,Round Mountain Community Ctr. ,14340 Round Mountain Rd.  ,,,370,FALSE,FALSE,TRUE
+2014,Lago Vista Middle School ,8039 Bar-K Ranch Rd. ,,,371,FALSE,FALSE,TRUE
+2014,Community Center at Jonestown ,18649 FM Suite 6A  ,,,372,FALSE,FALSE,TRUE
+2014,Lago Vista City Hall  ,5803 Thunderbird St. ,,,373,FALSE,FALSE,TRUE
+2014,Deer Creek Elementary School ,2420 Zeppelin Dr. ,,,374,FALSE,FALSE,TRUE
+2014,Village of Volente City Hall ,16100 Wharf Cove ,,,375,FALSE,FALSE,TRUE
+2014,Elroy Community Library ,13512 FM 812 ,,,402,FALSE,FALSE,TRUE
+2014,Creedmoor Elementary School ,5604 FM 1327 ,,,403,FALSE,FALSE,TRUE
+2014,Blazier Elementary School ,8601 Vertex Blvd. ,,,404,FALSE,FALSE,TRUE
+2014,Ojeda Middle School ,4900 McKinney Falls Pkwy. ,,,405,FALSE,FALSE,TRUE
+2014,South Rural Community Center ,3518 South FM 973 ,,,407,FALSE,FALSE,TRUE
+2014,Galindo Elementary School ,3800 South 2nd St. ,,,409,FALSE,FALSE,TRUE
+2014,Science Health Resource Center,305 North Bluff Dr. ,,,410,FALSE,FALSE,TRUE
+2014,Texas Oaks Baptist Church ,9910 Bilbrook Place ,,,414,FALSE,FALSE,TRUE
+2014,Casey Elementary School ,9400 Texas Oaks Dr. ,,,415,FALSE,FALSE,TRUE
+2014,Akins High School ,10701 South 1st St. ,,,416,FALSE,FALSE,TRUE
+2014,Parker Lane United Methodist  ,2105 Parker Ln. ,,,420,FALSE,FALSE,TRUE
+2014,Congress Avenue Baptist Church  ,1511 South Congress Ave. ,,,421,FALSE,FALSE,TRUE
+2014,Fulmore Middle School  ,201 East Mary St. ,,,422,FALSE,FALSE,TRUE
+2014,Montopolis Recreation Center ,1200 Montopolis Dr. ,,,423,FALSE,FALSE,TRUE
+2014,South Austin Recreation Center ,1100 Cumberland Rd. ,,,424,FALSE,FALSE,TRUE
+2014,Baty Elementary School ,2101 Faro Dr. ,,,431,FALSE,FALSE,TRUE
+2014,Twin Oaks Branch Library ,1800 South 5th St. ,,,437,FALSE,FALSE,TRUE
+2014,Cantu/Pan Am Recreation Center,2100 East 3rd St. ,,,439,FALSE,FALSE,TRUE
+2014,CityView at the Park Senior Apts. ,2000 Woodward St. ,,,440,FALSE,FALSE,TRUE
+2014,St. John's Lutheran Church ,409 West Ben White Blvd. ,,,441,FALSE,FALSE,TRUE
+2014,Mendez Middle School ,5106 Village Square  ,,,443,FALSE,FALSE,TRUE
+2014,Southeast Branch Library  ,5803 Nuckols Crossing Rd. ,,,450,FALSE,FALSE,TRUE
+2014,Bedichek Middle School ,6800 Bill Hughes Rd. ,,,451,FALSE,FALSE,TRUE
+2014,Houston Elementary School ,5409 Ponciana Dr. ,,,452,FALSE,FALSE,TRUE
+2014,Williams Elementary School ,500 Mairo St.,,,463,FALSE,FALSE,TRUE
+2014,Dailey Middle School,14000 Westall St.,,,"101,114, 115, 116, 119,138",FALSE,FALSE,TRUE
+2014,Graham Elementary School,11211 Tom Adams Dr.,,,"103, 104, 108",FALSE,FALSE,TRUE
+2014,Parmer Lane Elementary School,1806 Parmer Ln.,,,"109, 111",FALSE,FALSE,TRUE
+2014,Park Crest Middle School,1500 North Railroad Ave.,,,"110, 161",FALSE,FALSE,TRUE
+2014,Turner-Roberts Rec. Center,7201 Colony Loop Dr.,,,"117, 120",FALSE,FALSE,TRUE
+2014,Memorial United Methodist Church,6100 Berkman Dr.,,,"118, 130",FALSE,FALSE,TRUE
+2014,LBJ High School,7309 Lazy Creek Dr.,,,"121, 128, 129, 131, 134",FALSE,FALSE,TRUE
+2014,Sims Elementary School,1203 Springdale Rd.,,,"128, 129",FALSE,FALSE,TRUE
+2014,Rowe Lane Elementary School,3112 Speidel Dr.,,,"137, 163",FALSE,FALSE,TRUE
+2014,Bluebonnet Trail Elementary,11316 Farmhaven Rd.,,,"154, 125, 127",FALSE,FALSE,TRUE
+2014,Boulder Ridge Community Room,3300 Killingsworth Ln.,,,"203, 227",FALSE,FALSE,TRUE
+2014,O. Henry Middle School,2610 West 10th St.,,,"210, 251",FALSE,FALSE,TRUE
+2014,Walnut Creek Elementary School,401 West Braker Ln.,,,"211, 226",FALSE,FALSE,TRUE
+2014,Bridge Point Elementary School ,6401 Cedar St. ,,,"212, 221",FALSE,FALSE,TRUE
+2014,Cat Mountain H.O.A.,6007 Mount Bonnell Rd.,,,"213, 231, 220",FALSE,FALSE,TRUE
+2014,Wells Branch MUD Rec. Center,3000 Shoreline Dr.,,,"215, 225, 229",FALSE,FALSE,TRUE
+2014,Lanier High School,1201 Payton Gin Rd.,,,"217, 223, 224",FALSE,FALSE,TRUE
+2014,Cook Elementary School,1511 Cripple Creek Dr.,,,"222, 209",FALSE,FALSE,TRUE
+2014,Emeritus at North Austin,5310 Duval Rd.,,,"228, 254, 267",FALSE,FALSE,TRUE
+2014,St. Matthew's Episcopal Church ,8134 Mesa Dr. ,,,"249, 262",FALSE,FALSE,TRUE
+2014,Baker Center,3908 Ave. B ,,,"274, 275",FALSE,FALSE,TRUE
+2014,Great Hills Baptist Church ,10500 Jollyville Rd. ,,,"305, 323, 345, 321, 411",FALSE,FALSE,TRUE
+2014,Lakeway Activity Center ,105 Cross Creek Dr. ,,,"306, 319",FALSE,FALSE,TRUE
+2014,Rollingwood Municipal Building,403 Nixon Dr.,,,"307, 356",FALSE,FALSE,TRUE
+2014,Cowan Elementary School ,2817 Kentish Dr. ,,,"309, 350",FALSE,FALSE,TRUE
+2014,ACC Rio Grande,1212 Rio Grande St.,,,"311, 313",FALSE,FALSE,TRUE
+2014,LTISD Educational Development Center,607 RR 620 North  ,,,"312, 359",FALSE,FALSE,TRUE
+2014,Laura's Library ,9411 Bee Cave Rd. ,,,"318, 330, 357",FALSE,FALSE,TRUE
+2014,Austin City Hall First Floor ,301 West 2nd St. ,,,"325, 329",FALSE,FALSE,TRUE
+2014,Zilker Elementary School ,1900 Bluebonnet Ln. ,,,"332, 340, 341",FALSE,FALSE,TRUE
+2014,Covington Middle School ,3700 Convict Hill Rd. ,,,"352, 358",FALSE,FALSE,TRUE
+2014,St. Alban's Episcopal Church ,11819 IH-35 South ,,,"406, 417",FALSE,FALSE,TRUE
+2014,Southwest Church of Christ ,8900 Manchaca Rd. ,,,"408, 435",FALSE,FALSE,TRUE
+2014,Langford Elementary School ,2206 Blue Meadow Dr. ,,,"413, 418, 448",FALSE,FALSE,TRUE
+2014,Odom Elementary School ,1010 Turtle Creek Blvd. ,,,"419, 447",FALSE,FALSE,TRUE
+2014,St. Elmo Elementary School ,600 West St. Elmo Rd. ,,,"425, 446",FALSE,FALSE,TRUE
+2014,Govalle Elementary School ,3601 Govalle Ave. ,,,"426, 427, 436, 444",FALSE,FALSE,TRUE
+2014,Sanchez Elementary School ,73 San Marcos St. ,,,"428, 432, 434, 438",FALSE,FALSE,TRUE
+2014,Wheatsville Food Co-op ,4001 South Lamar Blvd. ,,,"430, 461",FALSE,FALSE,TRUE
+2014,Travis High School,1211 East Oltorf St. ,,,"433, 442",FALSE,FALSE,TRUE
+2014,ACC South Austin Campus ,1820 West Stassney Ln. ,,,"460, 458",FALSE,FALSE,TRUE
+2015,Travis County Airport Boulevard Offices,5501 Airport Blvd.,Central,Central,142,FALSE,TRUE,TRUE
+2015,Fiesta Mart Central in Delwood Shopping Center,3909 North IH-35,Central,Central,,FALSE,TRUE,TRUE
+2015,Howson Public Library,2500 Exposition Blvd.,Central,Central,256,FALSE,TRUE,TRUE
+2015,H.M. Sweatt Travis County Courthouse,"1000 Guadalupe St., 1st Fl.",Central,Central,329,FALSE,TRUE,TRUE
+2015,University of Texas Flawn Academic Center (Lobby),2400 Inner Campus Dr.,Central,Central,"208, 277",FALSE,TRUE,TRUE
+2015,Ben Hur Shrine Center,7811 Rockwood Ln.,North,Norte,243,FALSE,TRUE,TRUE
+2015,"County Tax Office, Pflugerville (Community Room)",15822 Foothill Farms Loop,North,Norte,"146, 148, 160",FALSE,TRUE,TRUE
+2015,Randalls Research and Braker,10900-D Research Blvd.,Northwest,Noroeste,323,FALSE,TRUE,TRUE
+2015,Randalls Steiner Ranch,5145 RM 620 North,Northwest,Noroeste,244,FALSE,TRUE,TRUE
+2015,Gardner Betts Annex,2501 S. Congress,South,Sur,,FALSE,TRUE,TRUE
+2015,Randalls Ben White and Manchaca,2025 West Ben White Blvd.,South,Sur,"412, 454",FALSE,TRUE,TRUE
+2015,Dan Ruiz Branch Public Library,1600 Grove Blvd.,Southeast,Sureste,429,FALSE,TRUE,TRUE
+2015,Fiesta Mart Stassney,5510 South IH-35,Southeast,Sureste,,FALSE,TRUE,TRUE
+2015,Randalls South Mopac and William Cannon,6600 South Mopac,Southwest,Suroeste,351,FALSE,TRUE,TRUE
+2015,Randalls Brodie and Slaughter,9911 Brodie Ln.,Southwest,Suroeste,,FALSE,TRUE,TRUE
+2015,Carver Branch Library,1161 Angelina St.,East,Este,124,FALSE,TRUE,TRUE
+2015,Parque Zaragoza Recreation Center,2608 Gonzales St.,East,Este,426,FALSE,TRUE,FALSE
+2015,Randalls Flagship West Lake Hills,3300 Bee Cave Rd.,West,Oeste,364,FALSE,TRUE,TRUE
+2015,Randalls Lakeway,2301 RR 620 South,West,Oeste,320,FALSE,TRUE,TRUE
+2015,Dailey Middle School,14000 Westall St.,,,"101, 114, 115, 116, 119, 138",FALSE,FALSE,TRUE
+2015,Copperfield Elementary School,12135 Thompkins Dr,,,102,FALSE,FALSE,TRUE
+2015,Graham Elementary School,11211 Tom Adams Dr.,,,"103, 104, 108",FALSE,FALSE,TRUE
+2015,Manor ISD Admin. Building,10335 US Highway 290E,,,105,FALSE,FALSE,TRUE
+2015,Elgin High School,14000 County Line Rd.,,,106,FALSE,FALSE,TRUE
+2015,New Sweden Lutheran Church,12809 New Sweden Church Rd.,,,107,FALSE,FALSE,TRUE
+2015,Parmer Lane Elementary School,1806 W. Parmer Ln.,,,109,FALSE,FALSE,TRUE
+2015,Park Crest Middle School,1500 North Railroad Ave.,,,110,FALSE,FALSE,TRUE
+2015,National American University,13801 Burnet Rd. #300,,,111,FALSE,FALSE,TRUE
+2015,Dessau Elementary School,1501 Dessau Ridge Ln.,,,112,FALSE,FALSE,TRUE
+2015,Wieland Elementary School,900 Tudor House Rd.,,,113,FALSE,FALSE,TRUE
+2015,Turner-Roberts Rec. Center,7201 Colony Loop Dr.,,,"117, 120",FALSE,FALSE,TRUE
+2015,Memorial United Methodist Church,6100 Berkman Dr.,,,"118, 130",FALSE,FALSE,TRUE
+2015,LBJ High School,7309 Lazy Creek Dr.,,,"121, 128, 131, 134",FALSE,FALSE,TRUE
+2015,YMCA East Community Branch,5315 Ed Bluestein Blvd.,,,122,FALSE,FALSE,TRUE
+2015,Murchison Elementary School,2215 Kelly Ln.,,,123,FALSE,FALSE,TRUE
+2015,Bluebonnet Trail Elementary School,11316 Farmhaven Rd.,,,"125, 127, 154",FALSE,FALSE,TRUE
+2015,David Chapel Portable,2211 East MLK Jr. Blvd.,,,126,FALSE,FALSE,TRUE
+2015,Sims Elementary School,1203 Springdale Rd.,,,129,FALSE,FALSE,TRUE
+2015,Pecan Springs Elementary School,3100 Rogge Ln.,,,132,FALSE,FALSE,TRUE
+2015,Blanton Elementary School,5408 Westminster Dr.,,,133,FALSE,FALSE,TRUE
+2015,Messiah Lutheran Church,5701 Cameron Rd.,,,135,FALSE,FALSE,TRUE
+2015,Pfluger Hall,203B East Pecan St.,,,136,FALSE,FALSE,TRUE
+2015,Blackhawk Amenity Center,3111 Speidel Dr.,,,"137, 163",FALSE,FALSE,TRUE
+2015,Gus Garcia Rec Center,1201 East Rundberg Ln.,,,"139, 140, 141",FALSE,FALSE,TRUE
+2015,Windermere Elementary School,1101 Picadilly Dr.,,,145,FALSE,FALSE,TRUE
+2015,Reilly Elementary School,405 Denson Dr.,,,149,FALSE,FALSE,TRUE
+2015,Brookhollow Elementary School,1200 North Railroad Ave,,,150,FALSE,FALSE,TRUE
+2015,Dottie Jordan Recreation Center,2803 Loyola Ln.,,,151,FALSE,FALSE,TRUE
+2015,Maplewood Elementary School,3808 Maplewood Ave.,,,152,FALSE,FALSE,TRUE
+2015,Pioneer Crossing Elementary School,11300 Samsung Blvd.,,,153,FALSE,FALSE,TRUE
+2015,Virginia Brown Recreation Center,7500 Blessing Ave.,,,156,FALSE,FALSE,TRUE
+2015,Combined @ 110 Park Crest Middle School,1500 North Railroad Ave.,,,161,FALSE,FALSE,TRUE
+2015,Barrington Elementary School,400 Cooper Dr.,,,164,FALSE,FALSE,TRUE
+2015,Winters Building,701 West 51st St.,,,200,FALSE,FALSE,TRUE
+2015,Red River Church,4425 Red River St.,,,"202, 206",FALSE,FALSE,TRUE
+2015,Boulder Ridge Community Room,3300 Killingsworth Ln.,,,"203, 227",FALSE,FALSE,TRUE
+2015,River Oaks Elementary School,12401 Scofield Farms Dr.,,,205,FALSE,FALSE,TRUE
+2015,Hartfield Performing Arts Center,5800 McNeil Dr.,,,207,FALSE,FALSE,TRUE
+2015,McBee Elementary School,1001 West Braker Ln.,,,"209, 258",FALSE,FALSE,TRUE
+2015,O. Henry Middle School,2610 West 10th St.,,,"210, 251",FALSE,FALSE,TRUE
+2015,Walnut Creek Elementary School,401 West Braker Ln.,,,"211, 226",FALSE,FALSE,TRUE
+2015,Bridge Point Elementary School,6401 Cedar St.,,,"212, 221",FALSE,FALSE,TRUE
+2015,Cat Mountain Homeowners Association,6007 Mount Bonnell Rd.,,,"213, 220, 231",FALSE,FALSE,TRUE
+2015,Congregation Beth Israel,3901 Shoal Creek Blvd.,,,"214, 273",FALSE,FALSE,TRUE
+2015,Northwest Elementary School,14014 Thermal Dr.,,,216,FALSE,FALSE,TRUE
+2015,Lanier High School,1201 Payton Gin Rd.,,,"217, 223, 224, 260",FALSE,FALSE,TRUE
+2015,ACC Northridge Campus,11928 Stonehollow Dr.,,,218,FALSE,FALSE,TRUE
+2015,Caldwell Elementary School,1718 Picadilly Dr.,,,219,FALSE,FALSE,TRUE
+2015,Grant AME Worship Center,1701 Kramer Ln.,,,"222, 268",FALSE,FALSE,TRUE
+2015,Wells Branch MUD Recreation Center,3000 Shoreline Dr.,,,"215, 225, 229",FALSE,FALSE,TRUE
+2015,Brookdale North Austin (Formerly Emeritus),5310 Duval Rd.,,,"228, 254, 267",FALSE,FALSE,TRUE
+2015,Canyon Ridge Middle School,12601 Country Trails Ln.,,,"232, 234",FALSE,FALSE,TRUE
+2015,River Place Elementary School,6500 Sitio Del Rio Blvd.,,,233,FALSE,FALSE,TRUE
+2015,McCallum High School,5600 Sunshine Dr.,,,235,FALSE,FALSE,TRUE
+2015,Rosedale School,2117 West 49th St.,,,236,FALSE,FALSE,TRUE
+2015,Highland Park Baptist Church,5206 Balcones Dr.,,,"237, 240",FALSE,FALSE,TRUE
+2015,Murchison Middle School,3700 North Hills Dr.,,,"238, 247",FALSE,FALSE,TRUE
+2015,Gullett Elementary School,6310 Treadwell Blvd.,,,239,FALSE,FALSE,TRUE
+2015,Combined @ 242 Northwest Baptist Church,6301 Woodrow Ave.,,,"241, 242",FALSE,FALSE,TRUE
+2015,Grandview Hills Elementary School,12024 Vista Parke Dr.,,,245,FALSE,FALSE,TRUE
+2015,Hill Elementary School,8601 Tallwood Dr.,,,246,FALSE,FALSE,TRUE
+2015,Burnet Middle School,8401 Hathaway Dr.,,,248,FALSE,FALSE,TRUE
+2015,St. Matthew's Episcopal Church,8134 Mesa Dr.,,,"249, 253",FALSE,FALSE,TRUE
+2015,St. Luke United Methodist Church,1306 West Lynn St.,,,250,FALSE,FALSE,TRUE
+2015,North Village Library,2505 Steck Ave.,,,252,FALSE,FALSE,TRUE
+2015,United Christian Church,3500 West Parmer Ln.,,,"259, 263",FALSE,FALSE,TRUE
+2015,Anderson High School,8403 Mesa Dr.,,,262,FALSE,FALSE,TRUE
+2015,Deer Creek Elementary,2420 Zeppelin Dr.,,,"266, 374",FALSE,FALSE,TRUE
+2015,Baker Center,3908 Ave. B,,,"274, 275",FALSE,FALSE,TRUE
+2015,Sunset Valley City Hall,3205 Jones Rd.,,,301,FALSE,FALSE,TRUE
+2015,Bailey Middle School,4020 Lost Oasis Hollow,,,302,FALSE,FALSE,TRUE
+2015,Oak Hill Primitive Baptist Church,11408 FM 1826,,,303,FALSE,FALSE,TRUE
+2015,Kiker Elementary School,5913 LaCrosse Ave.,,,304,FALSE,FALSE,TRUE
+2015,Great Hills Baptist Church,10500 Jollyville Rd.,,,"305, 321, 323, 345",FALSE,FALSE,TRUE
+2015,Lakeway Activity Center,105 Cross Creek,,,"306, 319",FALSE,FALSE,TRUE
+2015,Rollingwood Municipal Building,403 Nixon Dr.,,,"307, 356",FALSE,FALSE,TRUE
+2015,Briarcliff P.O.A. Community Center,22801 Briarcliff Dr.,,,308,FALSE,FALSE,TRUE
+2015,Cowan Elementary School,2817 Kentish Dr.,,,"309, 360",FALSE,FALSE,TRUE
+2015,Manchaca United Methodist Church,1011 FM 1626,,,310,FALSE,FALSE,TRUE
+2015,ACC Rio Grande,1212 Rio Grande St.,,,"311, 313",FALSE,FALSE,TRUE
+2015,LTISD Educational Development Center,607 RR 620 North,,,"312, 359",FALSE,FALSE,TRUE
+2015,Oak Hill Fire Dept. Barton Creek Station,4111 Barton Creek Blvd.,,,314,FALSE,FALSE,TRUE
+2015,Villages Amenities Center,12006 Gatling Gun Ln.,,,315,FALSE,FALSE,TRUE
+2015,Travis County Parks Office,14624 Hamilton Pool Rd.,,,316,FALSE,FALSE,TRUE
+2015,Lost Creek MUD Office,1305 Quaker Ridge Dr.,,,317,FALSE,FALSE,TRUE
+2015,Laura's Library,9411 Bee Cave Rd.,,,"318, 330, 357",FALSE,FALSE,TRUE
+2015,Bee Cave City Hall,4000 Galleria Pkwy.,,,"324, 368",FALSE,FALSE,TRUE
+2015,Austin City Hall,301 West 2nd St.,,,"325, 329",FALSE,FALSE,TRUE
+2015,Kathy Caraway Elementary School,11104 Oak View Dr.,,,"326, 331",FALSE,FALSE,TRUE
+2015,Fire Station # 33,9409 Bluegrass Dr.,,,327,FALSE,FALSE,TRUE
+2015,Renaissance Retirement Center,11279 Taylor Draper Ln.,,,328,FALSE,FALSE,TRUE
+2015,Zilker Elementary School,1900 Bluebonnet Ln.,,,"332, 340, 341",FALSE,FALSE,TRUE
+2015,Canyon Creek Elementary School,10210 Ember Glen Dr.,,,"333, 343",FALSE,FALSE,TRUE
+2015,Celebration Church - Anderson Mill,10401 Anderson Mill Rd.,,,334,FALSE,FALSE,TRUE
+2015,Hallmark Baptist Church,9023 Old Lampasas Tr.,,,"335, 336",FALSE,FALSE,TRUE
+2015,Lakewood Homeowner's Association,7317 Lakewood Dr.,,,337,FALSE,FALSE,TRUE
+2015,Travis County WCID #18,1502 San Juan Dr.,,,338,FALSE,FALSE,TRUE
+2015,Western Hills Church of Christ,6211 Parkwood Dr.,,,339,FALSE,FALSE,TRUE
+2015,Barton Hills Elementary School,2108 Barton Hills Dr.,,,342,FALSE,FALSE,TRUE
+2015,Cunningham Elementary School,2200 Berkeley Ave.,,,344,FALSE,FALSE,TRUE
+2015,Serene Hills Elementary School,3301 Serene Hills Dr.,,,346,FALSE,FALSE,TRUE
+2015,Hill Country Middle School,1300 Walsh Tarlton Ln.,,,347,FALSE,FALSE,TRUE
+2015,ACC Pinnacle Campus,7748 Highway 290 West,,,349,FALSE,FALSE,TRUE
+2015,Small Middle School,4801 Monterey Oaks Blvd.,,,"351, 363",FALSE,FALSE,TRUE
+2015,Covington Middle School,3700 Convict Hill Rd.,,,"352, 358",FALSE,FALSE,TRUE
+2015,Travis Country H.O.A. Office,4504 Travis Country Circle,,,354,FALSE,FALSE,TRUE
+2015,Oak Hill Fire Dept. Station #301,9211 Circle Dr.,,,361,FALSE,FALSE,TRUE
+2015,Will Hampton Branch Public Library,5125 Convict Hill Rd.,,,362,FALSE,FALSE,TRUE
+2015,Community Center at Oak Hill,8656 Highway 71 West,,,365,FALSE,FALSE,TRUE
+2015,Mills Elementary School,6201 Davis Ln.,,,366,FALSE,FALSE,TRUE
+2015,Clayton Elementary School,7525 LaCrosse Ave.,,,367,FALSE,FALSE,TRUE
+2015,Christ Episcopal Church,3520 West Whitestone Blvd.,,,369,FALSE,FALSE,TRUE
+2015,Round Mountain Community Center,"14340 Round Mountain Rd., Leander",,,370,FALSE,FALSE,TRUE
+2015,Lago Vista Middle School (Formerly H.S),8039 Bar-K Ranch Rd.,,,371,FALSE,FALSE,TRUE
+2015,Community Center at Jonestown,"18649 FM 1431, Suite 6A, Jonestown",,,372,FALSE,FALSE,TRUE
+2015,Lago Vista City Hall,5803 Thunderbird St.,,,373,FALSE,FALSE,TRUE
+2015,Volente Fire Dept.,15406 FM 2769,,,375,FALSE,FALSE,TRUE
+2015,Del Valle ISD Administration Building,5301 Ross Rd.,,,401,FALSE,FALSE,TRUE
+2015,Elroy Community Library,13512 FM 812,,,402,FALSE,FALSE,TRUE
+2015,Creedmoor Elementary School,5604 FM 1327,,,403,FALSE,FALSE,TRUE
+2015,Blazier Elementary School,8601 Vertex Blvd.,,,404,FALSE,FALSE,TRUE
+2015,Ojeda Middle School,4900 McKinney Falls Pkwy.,,,405,FALSE,FALSE,TRUE
+2015,St. Alban's Episcopal Church,11819 IH-35 South,,,"406, 417",FALSE,FALSE,TRUE
+2015,Community Center at Del Valle,3518 South FM 973,,,407,FALSE,FALSE,TRUE
+2015,Southwest Church of Christ,8900 Manchaca Rd.,,,"408, 435",FALSE,FALSE,TRUE
+2015,Galindo Elementary School,800 South 2nd St.,,,409,FALSE,FALSE,TRUE
+2015,St. John's Lutheran Church,409 West Ben White Blvd.,,,"410, 441",FALSE,FALSE,TRUE
+2015,Akins High School,10701 South 1st St.,,,"411, 416",FALSE,FALSE,TRUE
+2015,Langford Elementary School,2206 Blue Meadow Dr.,,,"413, 418, 448",FALSE,FALSE,TRUE
+2015,Texas Oaks Baptist Church,9910 Bilbrook Place,,,414,FALSE,FALSE,TRUE
+2015,Casey Elementary School,9400 Texas Oaks Dr.,,,415,FALSE,FALSE,TRUE
+2015,Odom Elementary School,1010 Turtle Creek Blvd.,,,419,FALSE,FALSE,TRUE
+2015,Parker Lane United Methodist Church,2105 Parker Ln.,,,"420, 440",FALSE,FALSE,TRUE
+2015,Church on Congress Avenue,1511 South Congress Ave.,,,"421, 422",FALSE,FALSE,TRUE
+2015,Montopolis Recreation Center,1200 Montopolis Dr.,,,423,FALSE,FALSE,TRUE
+2015,South Austin Recreation Center,1100 Cumberland Rd.,,,424,FALSE,FALSE,TRUE
+2015,St. Elmo Elementary School,600 West St. Elmo Rd.,,,"425, 446",FALSE,FALSE,TRUE
+2015,Govalle Elementary School,3601 Govalle Ave.,,,"426, 427, 436, 444",FALSE,FALSE,TRUE
+2015,Sanchez Elementary School,73 San Marcos St.,,,"428, 432, 434, 438",FALSE,FALSE,TRUE
+2015,Wheatsville Food Co-op,4001 South Lamar Blvd.,,,"430, 461",FALSE,FALSE,TRUE
+2015,Baty Elementary School,2101 Faro Dr.,,,431,FALSE,FALSE,TRUE
+2015,Travis High School,1211 East Oltorf St.,,,"433, 442",FALSE,FALSE,TRUE
+2015,Twin Oaks Branch Library,1800 South 5th St.,,,437,FALSE,FALSE,TRUE
+2015,Cantu/Pan Am Recreation Center,2100 East 3rd St.,,,439,FALSE,FALSE,TRUE
+2015,Southeast Branch Library,5803 Nuckols Crossing Rd.,,,"443, 450",FALSE,FALSE,TRUE
+2015,Bedichek Middle School,6800 Bill Hughes Rd.,,,451,FALSE,FALSE,TRUE
+2015,Houston Elementary School,5409 Ponciana Dr.,,,452,FALSE,FALSE,TRUE
+2015,ACC South Austin Campus,1820 West Stassney Ln.,,,"458, 460",FALSE,FALSE,TRUE
+2015,Williams Elementary School,500 Mairo St.,,,463,FALSE,FALSE,TRUE
+2016,ACC Highland Mall,6001 Airport Blvd.,North,Norte,156,TRUE,TRUE,TRUE
+2016,Ben Hur Shrine Center,7811 Rockwood Ln.,West,Oeste,243,TRUE,TRUE,TRUE
+2016,Southpark Meadows,9600 IH-35 South,South,Sur,411,TRUE,TRUE,TRUE
+2016,Millennium Youth Complex,1156 Hargrave St.,East,Este,124,TRUE,TRUE,TRUE
+2016,Austin City Hall,301 W 2nd St.,Central,Central,"325, 329",FALSE,TRUE,TRUE
+2016,Fiesta Mart Central in Delwood Shopping Center,3909 North IH-35,Central,Central,,FALSE,TRUE,TRUE
+2016,Howson Public Library,2500 Exposition Blvd.,Central,Central,"256, 266",FALSE,TRUE,TRUE
+2016,Travis County Granger Building,"314 W 11th St., 1st Floor",Central,Central,329,FALSE,TRUE,TRUE
+2016,University of Texas Flawn Academic Center (Lobby),2400 Inner Campus Dr.,Central,Central,208,FALSE,TRUE,TRUE
+2016,Goodwill Community Center,1015 Norwood Park Blvd.,Central,Central,139,FALSE,TRUE,TRUE
+2016,"County Tax Office, Pflugerville (Community Room)",15822 Foothill Farms Loop,North,Norte,"146, 148",FALSE,TRUE,TRUE
+2016,Little Walnut Creek Library,835 W Rundberg Ln.,North,Norte,217,FALSE,TRUE,TRUE
+2016,Hartfield Performing Arts Center,5800 McNeil Dr.,North,Norte,207,FALSE,TRUE,TRUE
+2016,Disability Rights Texas,2222 W Braker Ln.,North,Norte,218,FALSE,TRUE,TRUE
+2016,Austin Area Urban League,8011A Cameron Rd.,Northeast,Noreste,139,FALSE,TRUE,TRUE
+2016,Randalls Research and Braker,10900-D Research Blvd.,Northwest,Noroeste,"305, 321, 345",FALSE,TRUE,TRUE
+2016,Randalls Steiner Ranch,5145 RM 620 North,Northwest,Noroeste,"234, 244",FALSE,TRUE,TRUE
+2016,Gardner / Betts Annex,2501 S Congress,South,Sur,,FALSE,TRUE,TRUE
+2016,Randalls Ben White and Manchaca,2025 W Ben White Blvd.,South,Sur,"412, 454",FALSE,TRUE,TRUE
+2016,Dan Ruiz Public Library,1600 Grove Blvd.,Southeast,Sureste,429,FALSE,TRUE,TRUE
+2016,Fiesta Mart Stassney,5510 South IH-35,Southeast,Sureste,,FALSE,TRUE,TRUE
+2016,Del Valle ISD Administration Building,5301 Ross Rd.,Southeast,Sureste,401,FALSE,TRUE,TRUE
+2016,Dove Springs Recreation Center,5801 Ainez Dr.,Southeast,Sureste,,FALSE,TRUE,TRUE
+2016,Randalls South Mopac and William Cannon,6600 South Mopac,Southwest,Suroeste,351,FALSE,TRUE,TRUE
+2016,Randalls Brodie and Slaughter,9911 Brodie Ln.,Southwest,Suroeste,,FALSE,TRUE,TRUE
+2016,Carver Branch Library,1161 Angelina St.,East,Este,124,FALSE,TRUE,TRUE
+2016,Parque Zaragoza Recreation Center,2608 Gonzales S at 7th St.,East,Este,,FALSE,TRUE,TRUE
+2016,Manor ISD Administration Building,10335 E Hwy 290,East,Este,105,FALSE,TRUE,TRUE
+2016,Randalls Flagship West Lake Hills,3300 Bee Caves Rd.,West,Oeste,364,FALSE,TRUE,TRUE
+2016,Randalls Lakeway,2301 RR 620 S,West,Oeste,320,FALSE,TRUE,TRUE
+2016,Bee Cave City Hall,4000 Galleria Pkwy.,West,Oeste,"324, 368",FALSE,TRUE,TRUE
+2016,Dailey Middle School,14000 Westall St.,,,"101, 114, 115, 116, 119, 138",FALSE,FALSE,TRUE
+2016,Copperfield Elem. School,12135 Thompkins Dr.,,,102,FALSE,FALSE,TRUE
+2016,Graham Elementary School,11211 Tom Adams Dr.,,,"103, 104, 108",FALSE,FALSE,TRUE
+2016,Elgin High School,14000 County Line Rd.,,,106,FALSE,FALSE,TRUE
+2016,New Sweden Lutheran Church,12809 New Sweden Church Rd.,,,107,FALSE,FALSE,TRUE
+2016,Parmer Ln Elementary School,1806 W. Parmer Ln.,,,109,FALSE,FALSE,TRUE
+2016,Park Crest Middle School,1500 North RailRd. Ave.,,,"110, 161",FALSE,FALSE,TRUE
+2016,National American University,13801 Burnet Rd. #300,,,111,FALSE,FALSE,TRUE
+2016,Dessau Elementary School,1501 Dessau Ridge Ln.,,,112,FALSE,FALSE,TRUE
+2016,Wieland Elementary School,900 Tudor House Rd.,,,113,FALSE,FALSE,TRUE
+2016,Turner-Roberts Rec. Center,7201 Colony Loop Dr.,,,"117, 120",FALSE,FALSE,TRUE
+2016,Dottie Jordan Recreation Center,2803 Loyola Ln,,,"118, 151",FALSE,FALSE,TRUE
+2016,LBJ High School,7309 Lazy Creek Dr.,,,"121, 128, 131, 134",FALSE,FALSE,TRUE
+2016,YMCA East Community Branch,5315 Ed Bluestein Blvd.,,,122,FALSE,FALSE,TRUE
+2016,Murchison Elementary School,2215 Kelly Ln.,,,"123, 163",FALSE,FALSE,TRUE
+2016,Bluebonnet Tr. Elementary School,11316 Farmhaven Rd.,,,"125, 127, 154",FALSE,FALSE,TRUE
+2016,David Chapel Portable,2211 East MLK Jr. Blvd.,,,126,FALSE,FALSE,TRUE
+2016,Sims Elementary School,1203 Springdale Rd.,,,129,FALSE,FALSE,TRUE
+2016,Memorial United Methodist Church,6100 Berkman Dr.,,,130,FALSE,FALSE,TRUE
+2016,Pecan Springs Elementary School,3100 Rogge Ln.,,,132,FALSE,FALSE,TRUE
+2016,Blanton Elementary School,"5408 Westminster Dr.",,,133,FALSE,FALSE,TRUE
+2016,Messiah Lutheran Church,5701 Cameron Rd.,,,135,FALSE,FALSE,TRUE
+2016,Pfluger Hall,203B E. Pecan St.,,,136,FALSE,FALSE,TRUE
+2016,Blackhawk Amenity Center,"3111 Speidel Dr.",,,137,FALSE,FALSE,TRUE
+2016,Gus Garcia Rec Center,1201 East Rundberg Ln.,,,"139, 141",FALSE,FALSE,TRUE
+2016,Dobie Middle School,1200 East Rundberg Ln.,,,140,FALSE,FALSE,TRUE
+2016,Virginia Brown Recreation Center,7500 Blessing Ave.,,,"142, 156",FALSE,FALSE,TRUE
+2016,Windermere Elementary School,1101 Picadilly Dr.,,,145,FALSE,FALSE,TRUE
+2016,Reilly Elementary School,405 Denson Dr.,,,149,FALSE,FALSE,TRUE
+2016,Brookhollow Elementary School,1200 North RailRd. Ave.,,,150,FALSE,FALSE,TRUE
+2016,Maplewood Elementary School,3808 Maplewood Ave.,,,152,FALSE,FALSE,TRUE
+2016,Pioneer Crossing Elementary School,11300 Samsung Blvd.,,,153,FALSE,FALSE,TRUE
+2016,Spring Hill Elementary School,600 S. Heatherwilde Blvd.,,,160,FALSE,FALSE,TRUE
+2016,Barrington Elementary School,400 Cooper Dr.,,,164,FALSE,FALSE,TRUE
+2016,Winters Building,701 West 51st St.,,,200,FALSE,FALSE,TRUE
+2016,Red River Church,4425 Red River St.,,,202,FALSE,FALSE,TRUE
+2016,Boulder Ridge Community Room,3300 Killingsworth Ln.,,,"203, 227",FALSE,FALSE,TRUE
+2016,River Oaks Elementary School,12401 Scofield Farms Dr.,,,205,FALSE,FALSE,TRUE
+2016,Baker Center,3908 Ave B,,,"206, 274, 275",FALSE,FALSE,TRUE
+2016,Cook Elementary School,1511 Cripple Creek Dr.,,,"209, 222",FALSE,FALSE,TRUE
+2016,O. Henry Middle School,2610 West 10th St,,,"210, 251",FALSE,FALSE,TRUE
+2016,Walnut Creek Elementary School,401 West Braker Ln.,,,"211, 226",FALSE,FALSE,TRUE
+2016,Combined @ 221 Bridge Point Elementary,6401 Cedar St.,,,"212, 220, 221",FALSE,FALSE,TRUE
+2016,Highland Park Baptist Church,5206 Balcones Dr.,,,"213, 237",FALSE,FALSE,TRUE
+2016,Bryker Woods Elementary School,3309 Kerbey Ln.,,,214,FALSE,FALSE,TRUE
+2016,Northwest Elementary School,14014 Thermal Dr.,,,"215, 216",FALSE,FALSE,TRUE
+2016,Lanier High School,1201 Payton Gin Rd.,,,"217, 223, 224",FALSE,FALSE,TRUE
+2016,ACC Northridge Campus,11928 Stonehollow Dr.,,,218,FALSE,FALSE,TRUE
+2016,Caldwell Elementary School,1718 Picadilly Dr.,,,219,FALSE,FALSE,TRUE
+2016,Wells Branch MUD Recreation Center,3000 Shoreline Dr.,,,225,FALSE,FALSE,TRUE
+2016,Jaime Padron Elementary School,2011 W. Rundberg Ln.,,,"228, 260",FALSE,FALSE,TRUE
+2016,Wells Branch Community Center,2106 Klattenhoff Dr.,,,229,FALSE,FALSE,TRUE
+2016,Cat Mountain Homeowners Association,6007 Mount Bonnell Rd.,,,231,FALSE,FALSE,TRUE
+2016,Canyon Ridge Middle School,12601 Country Trails Ln.,,,232,FALSE,FALSE,TRUE
+2016,River Place Elementary School,6500 Sitio Del Rio Blvd.,,,233,FALSE,FALSE,TRUE
+2016,McCallum High School,5600 Sunshine Dr,,,235,FALSE,FALSE,TRUE
+2016,Rosedale School,2117 West 49th St.,,,236,FALSE,FALSE,TRUE
+2016,Murchison Middle School,3700 North Hills Dr.,,,238,FALSE,FALSE,TRUE
+2016,Gullett Elementary School,6310 Treadwell Blvd.,,,"239, 241",FALSE,FALSE,TRUE
+2016,Highland Park Elementary School,4900 Fairview Dr.,,,240,FALSE,FALSE,TRUE
+2016,Northwest Baptist Church,6301 Woodrow Ave.,,,242,FALSE,FALSE,TRUE
+2016,Grandview Hills Elementary School,12024 Vista Parke Dr.,,,245,FALSE,FALSE,TRUE
+2016,Hill Elementary School,8601 Tallwood Dr.,,,246,FALSE,FALSE,TRUE
+2016,Doss Elementary School,7005 Northledge Dr.,,,247,FALSE,FALSE,TRUE
+2016,Burnet Middle School,8401 Hathaway Dr.,,,248,FALSE,FALSE,TRUE
+2016,St Matthew's Episcopal Church,8134 Mesa Dr.,,,249,FALSE,FALSE,TRUE
+2016,St Luke United Methodist Church,1306 West Lynn St.,,,250,FALSE,FALSE,TRUE
+2016,North Village Library,2505 Steck Ave.,,,252,FALSE,FALSE,TRUE
+2016,Anderson High School,8403 Mesa Dr.,,,"253, 262",FALSE,FALSE,TRUE
+2016,Brookdale North Austin,5310 Duval Rd.,,,254,FALSE,FALSE,TRUE
+2016,McBee Elementary School,1001 West Braker Ln.,,,258,FALSE,FALSE,TRUE
+2016,Summitt Elementary School,12207 Brigadoon Ln.,,,"259, 267",FALSE,FALSE,TRUE
+2016,United Christian Church,3500 West Parmer Ln.,,,263,FALSE,FALSE,TRUE
+2016,Grant AME Worship Center,1701 Kramer Ln.,,,268,FALSE,FALSE,TRUE
+2016,Congregation Beth Israel,3901 Shoal Creek Blvd.,,,273,FALSE,FALSE,TRUE
+2016,University Co-op,2246 Guadalupe St.,,,277,FALSE,FALSE,TRUE
+2016,Sunset Valley City Hall,"3205 Jones Rd.",,,301,FALSE,FALSE,TRUE
+2016,Bailey Middle School,4020 Lost Oasis Hollow,,,302,FALSE,FALSE,TRUE
+2016,Oak Hill Primitive Baptist Church,11408 FM 1826,,,303,FALSE,FALSE,TRUE
+2016,Kiker Elementary School,5913 LaCrosse Ave.,,,304,FALSE,FALSE,TRUE
+2016,Lakeway Activity Center,105 Cross Creek,,,"306, 319",FALSE,FALSE,TRUE
+2016,Rollingwood Municipal Building,403 Nixon Dr.,,,"307, 356",FALSE,FALSE,TRUE
+2016,Briarcliff P.O.A. Community Center,22801 Briarcliff Dr.,,,308,FALSE,FALSE,TRUE
+2016,Cowan Elementary School,2817 Kentish Dr.,,,"309, 350",FALSE,FALSE,TRUE
+2016,Manchaca United Methodist Church,1011 FM 1626,,,310,FALSE,FALSE,TRUE
+2016,ACC Rio Grande,1212 Rio Grande St.,,,311,FALSE,FALSE,TRUE
+2016,Travis County Sheriff’s Office,3800 Hudson Bend Rd.,,,312,FALSE,FALSE,TRUE
+2016,Senior Activity Center-Lamar,2874 Shoal Crest Ave.,,,313,FALSE,FALSE,TRUE
+2016,Oak Hill Fire Dept. Barton Creek Station #302,4111 Barton Creek Blvd.,,,314,FALSE,FALSE,TRUE
+2016,Villages Amenities,12006 Gatling Gun Ln.,,,315,FALSE,FALSE,TRUE
+2016,Travis County Parks Office,14624 Hamilton Pool Rd.,,,316,FALSE,FALSE,TRUE
+2016,Lost Creek Limited District,1305 Quaker Ridge Dr.,,,317,FALSE,FALSE,TRUE
+2016,Austin Ridge Bible Church,9300 Bee Cave Rd.,,,318,FALSE,FALSE,TRUE
+2016,Great Hills Baptist Church,10500 Jollyville Rd.,,,323,FALSE,FALSE,TRUE
+2016,Laurel Mountain Elementary,"10111 DK Ranch Rd.",,,326,FALSE,FALSE,TRUE
+2016,Fire Station # 33,"9409 Bluegrass Dr.",,,327,FALSE,FALSE,TRUE
+2016,Renaissance Retirement Center,11279 Taylor Draper Ln.,,,328,FALSE,FALSE,TRUE
+2016,Austin City Hall,"301 West 2nd St.",,,329,FALSE,FALSE,TRUE
+2016,Laura's Library,9411 Bee Cave Rd.,,,"330, 357",FALSE,FALSE,TRUE
+2016,Kathy Caraway Elementary School,"11104 Oak View Dr.",,,331,FALSE,FALSE,TRUE
+2016,Zilker Elementary School,1900 Bluebonnet Ln.,,,"332, 340, 341",FALSE,FALSE,TRUE
+2016,Canyon Creek Elementary School,"10210 Ember Glen Dr.",,,333,FALSE,FALSE,TRUE
+2016,Hallmark Baptist Church,9023 Old Lampasas Tr.,,,"334, 336",FALSE,FALSE,TRUE
+2016,Canyon Vista Middle School,8455 Spicewood Springs Rd.,,,335,FALSE,FALSE,TRUE
+2016,Lakewood Homeowner's Association,7317 Lakewood Dr.,,,"337, 343",FALSE,FALSE,TRUE
+2016,Travis County WCID #18,1502 San Juan Dr.,,,338,FALSE,FALSE,TRUE
+2016,Western Hills Church of Christ,6211 Parkwood Dr.,,,339,FALSE,FALSE,TRUE
+2016,Barton Hills Elementary School,2108 Barton Hills Dr.,,,342,FALSE,FALSE,TRUE
+2016,Jubilee Christian Center,2909 W William Cannon Dr.,,,"344, 352",FALSE,FALSE,TRUE
+2016,Serene Hills Elementary School,3301 Serene Hills Dr.,,,346,FALSE,FALSE,TRUE
+2016,Hill Country Middle School,1300 Walsh Tarlton Ln.,,,347,FALSE,FALSE,TRUE
+2016,ACC Pinnacle Campus,7748 Highway 290 West,,,349,FALSE,FALSE,TRUE
+2016,Small Middle School,4801 Monterey Oaks Blvd.,,,351,FALSE,FALSE,TRUE
+2016,Travis Country H.O.A. Office,4504 Travis Country Circle,,,354,FALSE,FALSE,TRUE
+2016,Covington Middle School,3700 Convict Hill Rd.,,,358,FALSE,FALSE,TRUE
+2016,LTISD Educational Development Center,607 RR 620 North,,,359,FALSE,FALSE,TRUE
+2016,Bowie High School,4103 West Slaughter Ln.,,,360,FALSE,FALSE,TRUE
+2016,Oak Hill Fire Dept. Station #301,9211 Circle Dr.,,,361,FALSE,FALSE,TRUE
+2016,Will Hampton Branch Public Library,5125 Convict Hill Rd.,,,362,FALSE,FALSE,TRUE
+2016,Shepherd of the Hills Presbyterian Church,"5226 W. William Cannon Dr.",,,363,FALSE,FALSE,TRUE
+2016,Community Center at Oak Hill,8656 Highway 71 West,,,365,FALSE,FALSE,TRUE
+2016,Mills Elementary School,6201 Davis Ln.,,,366,FALSE,FALSE,TRUE
+2016,Clayton Elementary School,7525 LaCrosse Ave.,,,367,FALSE,FALSE,TRUE
+2016,Christ Episcopal Church,3520 W Whitestone Blvd.,,,369,FALSE,FALSE,TRUE
+2016,Round Mountain Community Center,14340 Round Mountain Rd.,,,370,FALSE,FALSE,TRUE
+2016,Lago Vista Middle School,8039 Bar-K Ranch Rd.,,,371,FALSE,FALSE,TRUE
+2016,Community Center at Jonestown,"18649 FM 1431, Suite 6A",,,372,FALSE,FALSE,TRUE
+2016,Lago Vista City Hall,5803 Thunderbird St.,,,373,FALSE,FALSE,TRUE
+2016,Deer Creek Elementary,2420 Zeppelin Dr.,,,374,FALSE,FALSE,TRUE
+2016,Volente Fire Dept.,15406 FM 2769,,,375,FALSE,FALSE,TRUE
+2016,Elroy Community Library,13512 FM 812,,,402,FALSE,FALSE,TRUE
+2016,Creedmoor Elementary School,5604 FM 1327,,,403,FALSE,FALSE,TRUE
+2016,Blazier Elementary School,8601 Vertex Blvd.,,,404,FALSE,FALSE,TRUE
+2016,Ojeda Middle School,4900 McKinney Falls Pkwy.,,,405,FALSE,FALSE,TRUE
+2016,St Alban's Episcopal Church,11819 IH-35 South,,,"406, 417",FALSE,FALSE,TRUE
+2016,Community Center at Del Valle,3518 South FM 973,,,407,FALSE,FALSE,TRUE
+2016,Southwest Church of Christ,8900 Manchaca Rd.,,,"408, 435",FALSE,FALSE,TRUE
+2016,Galindo Elementary School,3800 South 2nd St.,,,409,FALSE,FALSE,TRUE
+2016,Science & Health Resource Center,305 North Bluff Dr.,,,410,FALSE,FALSE,TRUE
+2016,Langford Elementary School,2206 Blue Meadow Dr.,,,"413, 418, 448",FALSE,FALSE,TRUE
+2016,Texas Oaks Baptist Church,9910 Bilbrook Place,,,414,FALSE,FALSE,TRUE
+2016,Casey Elementary School,9400 Texas Oaks Dr.,,,415,FALSE,FALSE,TRUE
+2016,Akins High School,10701 South 1st St.,,,416,FALSE,FALSE,TRUE
+2016,Odom Elementary School,1010 Turtle Creek Blvd.,,,"419, 447",FALSE,FALSE,TRUE
+2016,Parker Ln United Methodist Church,2105 Parker Ln.,,,420,FALSE,FALSE,TRUE
+2016,Church on Congress Ave,1511 South Congress Ave.,,,421,FALSE,FALSE,TRUE
+2016,Fulmore Middle School,201 East Mary St.,,,422,FALSE,FALSE,TRUE
+2016,Montopolis Recreation Center,1200 Montopolis Dr.,,,423,FALSE,FALSE,TRUE
+2016,"South Austin Rec. Center",1100 Cumberland Rd.,,,424,FALSE,FALSE,TRUE
+2016,St Elmo Elementary School,600 West St Elmo Rd.,,,"425, 446",FALSE,FALSE,TRUE
+2016,Govalle Elementary School,3601 Govalle Ave.,,,"426, 427, 436, 444",FALSE,FALSE,TRUE
+2016,Sanchez Elementary School,73 San Marcos St.,,,"428, 432, 434, 438",FALSE,FALSE,TRUE
+2016,Wheatsville Food Co-op South Lamar,4001 South Lamar Blvd.,,,"430, 461",FALSE,FALSE,TRUE
+2016,Baty Elementary School,2101 Faro Dr.,,,431,FALSE,FALSE,TRUE
+2016,Travis High School,1211 East Oltorf St.,,,"433, 442",FALSE,FALSE,TRUE
+2016,Twin Oaks Branch Library,1800 South 5th St.,,,437,FALSE,FALSE,TRUE
+2016,Cantu/Pan Am Recreation Center,2100 East 3rd St.,,,439,FALSE,FALSE,TRUE
+2016,Cityview at the Park Senior Apts.,2000 Woodward St.,,,440,FALSE,FALSE,TRUE
+2016,St John's Lutheran Church,409 West Ben White Blvd.,,,441,FALSE,FALSE,TRUE
+2016,Combined @ 450 Southeast Branch Library,5803 Nuckols Crossing Rd.,,,"443, 450",FALSE,FALSE,TRUE
+2016,Bedichek Middle School,6800 Bill Hughes Rd.,,,451,FALSE,FALSE,TRUE
+2016,Houston Elementary School,5409 Ponciana Dr.,,,452,FALSE,FALSE,TRUE
+2016,ACC South Austin Campus,1820 West Stassney Ln.,,,"458, 460",FALSE,FALSE,TRUE
+2016,Williams Elementary School,500 Mairo St.,,,463,FALSE,FALSE,TRUE

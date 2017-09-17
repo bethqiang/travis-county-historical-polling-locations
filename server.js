@@ -3,6 +3,7 @@ const resolve = require('path').resolve;
 const logger = require('morgan');
 const chalk = require('chalk');
 const db = require('./database');
+require('./importToMongo');
 
 const app = express();
 const Locations = db.location;
